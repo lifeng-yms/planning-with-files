@@ -59,9 +59,9 @@ notes.md          → Store research and findings
 
 Install directly using the Claude Code CLI:
 
-```bash
-claude plugin add planning-with-files@OthmanAdi
-claude plugin install planning-with-files@OthmanAdi
+```
+/plugin marketplace add OthmanAdi/planning-with-files
+/plugin install planning-with-files@planning-with-files
 ```
 
 ### Manual Installation
